@@ -2,12 +2,6 @@
 DoraShell is a simple Reverse Shell Payload Suggester.
 Let me explain about it‼️‼️
 
-
-📸Screenshot
-
-![Uploading image.png…]()
-
-
 ⚙️ How to Use
 
 You can run the tool using Python 3:
