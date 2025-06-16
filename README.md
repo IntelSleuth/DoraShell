@@ -29,7 +29,11 @@ Enter an option: --bash
 Clone the repository and run it directly:
 
 git clone https://github.com/yourusername/DORA-Reverse-Shell.git
+
+
 cd DORA-Reverse-Shell
+
+
 python3 DORAShell.py
 
 Make sure you have Python 3 installed:
