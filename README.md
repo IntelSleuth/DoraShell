@@ -1,6 +1,6 @@
 🔵# DoraShell
-DoraShell is a simple Reverse Shell Payload Suggester.
-Let me explain about it‼️‼️
+DoraShell is a tool that includes various reverse shell commands, and it can be used in CTF challenges or real-world pentesting to obtain a reverse shell.
+Let me explain you about it‼️‼️
 
 ⚙️ How to Use
 
